@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sessho-tsuki-jusshu-utaawase",
  "yomi": "せっしょうけつきじっしゅうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（月の十題）",
+  "era": "建治元年（1275）9月13日",
+  "author": "主催 一条家経／判者 真観",
+  "desc": "摂政一条家経の家で九月十三夜に催された、月の十題による歌合。安嘉門院右衛門佐らが詠み、後日真観が判詞を付けた。判詞は承暦二年内裏歌合などの先例を引いて論じる。"
+ },
  "editions": [
   {
    "pid": "1879502",
